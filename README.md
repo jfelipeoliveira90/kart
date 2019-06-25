@@ -1,5 +1,8 @@
 # Kart Project
 
+### Prerequisite
+ * Java 8 installed
+
 ### How to build
 ``` ./gradlew clean build ```
 
